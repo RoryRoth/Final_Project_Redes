@@ -26,6 +26,6 @@ El presente documento presentará el desarrollo del projecto final de la asignat
    ![image](https://user-images.githubusercontent.com/89588991/198388334-cc37dfff-c428-4ee4-91e0-091f6ab82bab.png)
   
   ***SERVIDORES: ***
-   Esta ubicación contiene dos servidores 
+   Esta ubicación contiene dos servidores, uno está configurado para ser un servidor DHCP con dirección incial 209.175.104.0 y máscara de subred 255.255.255.224, además de un límite de ususarios de 31 sin contar las direcciones broadcast y de enrutamiento. 
    
    ![image](https://user-images.githubusercontent.com/89588991/198388801-9783d938-ebd2-49d1-ba24-148575a3501f.png)
