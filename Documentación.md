@@ -47,7 +47,24 @@ Al ingresar a la página desde cualquier End Device en el sistema de redes este 
 
 1. Desde el Campus podemos ver que la red tiene un camino eficiente hacia el router principal, para confirmar esto se envía un paquete a este mismo router que responde con otro paquete; la señal es de tipo DNS para asegurar su correcta conectividad.
 
-![image](https://user-images.githubusercontent.com/89588991/198400741-48f16590-818e-4ead-9699-9298eb80f332.png)
+![image](https://user-images.githubusercontent.com/89588991/198402555-4d452edc-4baf-459b-bd23-b7e353427ef9.png)
+
+![image](https://user-images.githubusercontent.com/89588991/198402566-4f11dbbd-a42b-4964-92ab-717ca7e163cd.png)
+
+![image](https://user-images.githubusercontent.com/89588991/198402956-599805be-5aa3-476c-9825-482a009097dc.png)
+
+
+Posteriormente se envía un paquete mediante TCP para que el servidor correspondiente envíe una respuesta que así mismo verifica el camino que recorres el paquete previo a realizar la conectividad de clinte/servidor.
+
+![image](https://user-images.githubusercontent.com/89588991/198402918-5d1a7824-a483-47e4-b271-f300104e26d6.png)
+
+![image](https://user-images.githubusercontent.com/89588991/198402933-7f926286-610d-444c-856d-bbf394093038.png)
+
+Para verificar la finalización de la conectividad se realiza una petición HTTP.
+
+![image](https://user-images.githubusercontent.com/89588991/198403037-e129d4dc-681c-4e39-9420-3314a95e9809.png)
+
+2. Desde la oficina 
 
 
 
