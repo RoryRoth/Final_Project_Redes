@@ -43,6 +43,18 @@ Al ingresar a la página desde cualquier End Device en el sistema de redes este 
 ![image](https://user-images.githubusercontent.com/89588991/198397590-fb6a437a-2576-4493-a460-d6ea5bb775d2.png)
 
 
+#### ANÁLISIS:
 
-   
-   
+1. Desde el Campus podemos ver que la red tiene un camino eficiente hacia el router principal, para confirmar esto se envía un paquete a este mismo router que responde con otro paquete; la señal es de tipo DNS para asegurar su correcta conectividad.
+
+![image](https://user-images.githubusercontent.com/89588991/198400741-48f16590-818e-4ead-9699-9298eb80f332.png)
+
+
+
+
+
+
+
+
+
+
