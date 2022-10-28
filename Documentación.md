@@ -115,5 +115,7 @@ Este es el código usado en cuestión con archivo en formato .txt para la comodi
 
 [Configuraciones.txt](https://github.com/RoryRoth/Final_Project_Redes/files/9883735/Configuraciones.txt)
 
+FInalmente, para una explicación más concisa por favor revisar el video presentado a continuación:
 
+https://www.youtube.com/watch?v=lTVH18dPtvE
 
